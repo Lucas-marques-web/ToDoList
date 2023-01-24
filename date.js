@@ -5,7 +5,7 @@ function getDate(){
     const date = new Date();
 
     const options = {
-      weekday: 'long',
+      // weekday: 'long',
       day: 'numeric',
       month: 'long'
   
